@@ -1,4 +1,9 @@
+Deep Learning Project
+
+Group project: Zehan Chen(zc2435), Jiaheng He(jh4003)
+
 we have 3 models for this project.
+(models are too large for github, upload a goole drive link separately)
 
 1. baseline mode, we build the pipeline at the beginning stage
 2. shuffle(permute), one method we tried to organize training data, run one tif for 1 epoch then another tif
